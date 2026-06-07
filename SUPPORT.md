@@ -7,14 +7,14 @@
 在提问前，请先查阅以下资源：
 
 - [README.md](./README.md) — 仓库总览
-- [digital-employee-spec](https://github.com/hermes-agent/digital-employee-spec) — 总规范文档
+- [digital-employee-spec](https://github.com/bangwozuo/digital-employee-spec) — 总规范文档
 
 ### 2. 提交 Issue
 
 如果文档无法解决你的问题，请提交 Issue：
 
-- [Bug 报告](https://github.com/hermes-agent/digital-employee-taxonomy/issues/new?template=bug_report.md)
-- [功能请求](https://github.com/hermes-agent/digital-employee-taxonomy/issues/new?template=feature_request.md)
+- [Bug 报告](https://github.com/bangwozuo/digital-employee-taxonomy/issues/new?template=bug_report.md)
+- [功能请求](https://github.com/bangwozuo/digital-employee-taxonomy/issues/new?template=feature_request.md)
 
 ### 3. 常见问题
 

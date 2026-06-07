@@ -25,7 +25,7 @@ Fixes #(issue number)
 - [ ] 我已阅读 [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [ ] 分类定义清晰、无歧义
 - [ ] 与现有分类无重复
-- [ ] 命名符合 [digital-employee-spec](https://github.com/hermes-agent/digital-employee-spec) 命名规范
+- [ ] 命名符合 [digital-employee-spec](https://github.com/bangwozuo/digital-employee-spec) 命名规范
 - [ ] YAML 语法正确
 - [ ] 文档链接有效
 

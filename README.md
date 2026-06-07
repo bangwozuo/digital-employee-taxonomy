@@ -127,10 +127,10 @@ digital-employee-taxonomy/
 
 ## 平台入口
 
-- **总入口**: [awesome-digital-employees-zh](https://github.com/hermes-agent/awesome-digital-employees-zh)
-- **总规范**: [digital-employee-spec](https://github.com/hermes-agent/digital-employee-spec)
-- **技能市场**: [digital-employee-skills-zh](https://github.com/hermes-agent/digital-employee-skills-zh)
-- **连接器市场**: [digital-employee-connectors-zh](https://github.com/hermes-agent/digital-employee-connectors-zh)
+- **总入口**: [awesome-digital-employees-zh](https://github.com/bangwozuo/awesome-digital-employees-zh)
+- **总规范**: [digital-employee-spec](https://github.com/bangwozuo/digital-employee-spec)
+- **技能市场**: [digital-employee-skills-zh](https://github.com/bangwozuo/digital-employee-skills-zh)
+- **连接器市场**: [digital-employee-connectors-zh](https://github.com/bangwozuo/digital-employee-connectors-zh)
 
 ---
 
