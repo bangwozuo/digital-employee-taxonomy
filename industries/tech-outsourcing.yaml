@@ -1,0 +1,31 @@
+id: tech-outsourcing
+name: 技术外包
+description: 软件外包项目管理、交付、客户沟通、质量控制
+icon: briefcase
+parent: null
+level: 1
+order: 4
+tags:
+  - outsourcing
+  - project-delivery
+  - client-management
+  - scope-control
+  - milestone-tracking
+related_industries:
+  - internet-product-dev
+  - startup-decision
+common_roles:
+  - project-manager
+  - tech-lead
+  - business-analyst
+  - delivery-manager
+  - client-success-manager
+common_skills:
+  - requirement-gathering
+  - project-planning
+  - risk-assessment
+  - client-communication
+  - code-quality-review
+  - delivery-reporting
+market_size: smb
+complexity: moderate

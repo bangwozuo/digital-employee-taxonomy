@@ -1,0 +1,33 @@
+id: recruitment
+name: 招聘
+description: 简历筛选、面试安排、人才库管理、雇主品牌、入职流程
+icon: user-plus
+parent: null
+level: 1
+order: 15
+tags:
+  - resume-screening
+  - interview-scheduling
+  - talent-pool
+  - employer-branding
+  - onboarding
+  - headhunting
+related_industries:
+  - admin-hr
+  - sales-growth
+  - tech-outsourcing
+common_roles:
+  - recruiter
+  - talent-acquisition
+  - hiring-manager
+  - interview-coordinator
+  - employer-brand-specialist
+common_skills:
+  - resume-parsing
+  - candidate-matching
+  - interview-coordination
+  - offer-generation
+  - onboarding-automation
+  - talent-pipeline-tracking
+market_size: enterprise
+complexity: moderate

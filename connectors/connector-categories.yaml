@@ -1,0 +1,215 @@
+categories:
+  - id: ecommerce-platform
+    name: 电商平台
+    description: 主流电商平台的连接器
+    platforms:
+      - id: taobao
+        name: 淘宝
+        type: ecommerce
+        website: https://www.taobao.com
+        api_docs: https://open.taobao.com
+      - id: tmall
+        name: 天猫
+        type: ecommerce
+        website: https://www.tmall.com
+        api_docs: https://open.taobao.com
+      - id: jd
+        name: 京东
+        type: ecommerce
+        website: https://www.jd.com
+        api_docs: https://open.jd.com
+      - id: pdd
+        name: 拼多多
+        type: ecommerce
+        website: https://www.pinduoduo.com
+        api_docs: https://open.pinduoduo.com
+      - id: douyin-shop
+        name: 抖音小店
+        type: ecommerce
+        website: https://fxg.jinritemai.com
+        api_docs: https://op.jinritemai.com
+      - id: xiaohongshu-shop
+        name: 小红书店铺
+        type: ecommerce
+        website: https://www.xiaohongshu.com
+        api_docs: https://open.xiaohongshu.com
+
+  - id: social-media
+    name: 社交媒体
+    description: 社交媒体平台的连接器
+    platforms:
+      - id: wechat-official
+        name: 微信公众号
+        type: social
+        website: https://mp.weixin.qq.com
+        api_docs: https://developers.weixin.qq.com/doc/offiaccount/
+      - id: wechat-miniprogram
+        name: 微信小程序
+        type: social
+        website: https://mp.weixin.qq.com
+        api_docs: https://developers.weixin.qq.com/miniprogram/dev/
+      - id: wechat-work
+        name: 企业微信
+        type: social
+        website: https://work.weixin.qq.com
+        api_docs: https://developer.work.weixin.qq.com
+      - id: douyin
+        name: 抖音
+        type: social
+        website: https://www.douyin.com
+        api_docs: https://open.douyin.com
+      - id: xiaohongshu
+        name: 小红书
+        type: social
+        website: https://www.xiaohongshu.com
+        api_docs: https://open.xiaohongshu.com
+      - id: zhihu
+        name: 知乎
+        type: social
+        website: https://www.zhihu.com
+        api_docs: https://www.zhihu.com/openapi
+      - id: weibo
+        name: 微博
+        type: social
+        website: https://weibo.com
+        api_docs: https://open.weibo.com
+
+  - id: collaboration
+    name: 协同办公
+    description: 企业协同办公平台的连接器
+    platforms:
+      - id: feishu
+        name: 飞书
+        type: office
+        website: https://www.feishu.cn
+        api_docs: https://open.feishu.cn
+      - id: dingtalk
+        name: 钉钉
+        type: office
+        website: https://www.dingtalk.com
+        api_docs: https://open.dingtalk.com
+      - id: wechat-work
+        name: 企业微信
+        type: office
+        website: https://work.weixin.qq.com
+        api_docs: https://developer.work.weixin.qq.com
+      - id: notion
+        name: Notion
+        type: office
+        website: https://www.notion.so
+        api_docs: https://developers.notion.com
+      - id: lark
+        name: Lark
+        type: office
+        website: https://www.larksuite.com
+        api_docs: https://open.larksuite.com
+
+  - id: payment
+    name: 支付平台
+    description: 支付和财务平台的连接器
+    platforms:
+      - id: alipay
+        name: 支付宝
+        type: payment
+        website: https://www.alipay.com
+        api_docs: https://open.alipay.com
+      - id: wechat-pay
+        name: 微信支付
+        type: payment
+        website: https://pay.weixin.qq.com
+        api_docs: https://pay.weixin.qq.com/wiki/
+      - id: stripe
+        name: Stripe
+        type: payment
+        website: https://stripe.com
+        api_docs: https://stripe.com/docs/api
+
+  - id: ai-model
+    name: AI模型平台
+    description: 大语言模型和AI服务平台的连接器
+    platforms:
+      - id: openai
+        name: OpenAI
+        type: ai-model
+        website: https://openai.com
+        api_docs: https://platform.openai.com/docs
+      - id: anthropic
+        name: Anthropic
+        type: ai-model
+        website: https://www.anthropic.com
+        api_docs: https://docs.anthropic.com
+      - id: zhipu-ai
+        name: 智谱AI
+        type: ai-model
+        website: https://www.zhipuai.cn
+        api_docs: https://open.bigmodel.cn
+      - id: moonshot
+        name: Moonshot AI
+        type: ai-model
+        website: https://www.moonshot.cn
+        api_docs: https://platform.moonshot.cn
+      - id: deepseek
+        name: DeepSeek
+        type: ai-model
+        website: https://www.deepseek.com
+        api_docs: https://platform.deepseek.com
+      - id: qwen
+        name: 通义千问
+        type: ai-model
+        website: https://tongyi.aliyun.com
+        api_docs: https://help.aliyun.com/qwen
+
+  - id: database
+    name: 数据库与存储
+    description: 数据库和存储系统的连接器
+    platforms:
+      - id: mysql
+        name: MySQL
+        type: database
+        website: https://www.mysql.com
+        api_docs: https://dev.mysql.com/doc/
+      - id: postgresql
+        name: PostgreSQL
+        type: database
+        website: https://www.postgresql.org
+        api_docs: https://www.postgresql.org/docs/
+      - id: mongodb
+        name: MongoDB
+        type: database
+        website: https://www.mongodb.com
+        api_docs: https://docs.mongodb.com
+      - id: redis
+        name: Redis
+        type: database
+        website: https://redis.io
+        api_docs: https://redis.io/docs
+      - id: elasticsearch
+        name: Elasticsearch
+        type: database
+        website: https://www.elastic.co
+        api_docs: https://www.elastic.co/guide/
+
+  - id: messaging
+    name: 消息通信
+    description: 即时通讯和消息队列的连接器
+    platforms:
+      - id: slack
+        name: Slack
+        type: messaging
+        website: https://slack.com
+        api_docs: https://api.slack.com
+      - id: discord
+        name: Discord
+        type: messaging
+        website: https://discord.com
+        api_docs: https://discord.com/developers/docs
+      - id: kafka
+        name: Apache Kafka
+        type: messaging
+        website: https://kafka.apache.org
+        api_docs: https://kafka.apache.org/documentation/
+      - id: rabbitmq
+        name: RabbitMQ
+        type: messaging
+        website: https://www.rabbitmq.com
+        api_docs: https://www.rabbitmq.com/documentation.html

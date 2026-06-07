@@ -1,0 +1,35 @@
+id: ecommerce-retail
+name: 电商零售
+description: 电商平台运营、店铺管理、商品上架、订单处理、物流跟踪
+icon: shopping-cart
+parent: null
+level: 1
+order: 8
+tags:
+  - online-store
+  - product-listing
+  - order-management
+  - inventory
+  - logistics
+  - live-commerce
+related_industries:
+  - private-domain-ops
+  - local-life
+  - sales-growth
+common_roles:
+  - store-manager
+  - product-lister
+  - customer-service
+  - operations-specialist
+  - live-streamer
+  - supply-chain-manager
+common_skills:
+  - product-photography
+  - listing-optimization
+  - inventory-management
+  - order-fulfillment
+  - customer-inquiry
+  - return-processing
+  - live-stream-scripting
+market_size: enterprise
+complexity: moderate

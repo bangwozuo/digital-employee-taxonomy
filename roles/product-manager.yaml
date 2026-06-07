@@ -1,0 +1,22 @@
+id: product-manager
+name: 产品经理
+description: 负责产品规划、需求分析、用户研究和迭代管理
+level: mid
+industries:
+  - internet-product-dev
+  - startup-decision
+  - ai-app-generation
+skills:
+  - requirement-analysis
+  - user-research
+  - roadmap-planning
+  - a-b-testing
+  - data-analysis
+  - stakeholder-communication
+responsibilities:
+  - 收集和分析用户需求
+  - 制定产品路线图
+  - 编写产品需求文档
+  - 协调开发资源
+  - 跟踪产品数据
+reporting_to: cto

@@ -1,0 +1,35 @@
+id: content-marketing
+name: 内容营销
+description: 内容创作、多平台分发、SEO优化、流量增长、品牌传播
+icon: pen-tool
+parent: null
+level: 1
+order: 6
+tags:
+  - content-creation
+  - seo
+  - social-media
+  - copywriting
+  - brand-storytelling
+  - viral-marketing
+related_industries:
+  - private-domain-ops
+  - ecommerce-retail
+  - one-person-company
+common_roles:
+  - content-strategist
+  - copywriter
+  - seo-specialist
+  - social-media-manager
+  - video-editor
+  - influencer-coordinator
+common_skills:
+  - content-planning
+  - keyword-research
+  - copywriting
+  - video-editing
+  - social-media-scheduling
+  - analytics-reporting
+  - a-b-testing
+market_size: smb
+complexity: moderate

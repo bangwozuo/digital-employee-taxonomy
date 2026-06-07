@@ -1,0 +1,22 @@
+id: project-manager
+name: 项目经理
+description: 负责项目规划、进度跟踪、风险管理和团队协调
+level: mid
+industries:
+  - tech-outsourcing
+  - internet-product-dev
+  - startup-decision
+skills:
+  - project-planning
+  - risk-management
+  - stakeholder-communication
+  - resource-allocation
+  - milestone-tracking
+  - status-reporting
+responsibilities:
+  - 制定项目计划
+  - 跟踪项目进度
+  - 管理项目风险
+  - 协调团队资源
+  - 汇报项目状态
+reporting_to: delivery-manager

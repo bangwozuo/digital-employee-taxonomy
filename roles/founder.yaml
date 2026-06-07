@@ -1,0 +1,22 @@
+id: founder
+name: 创始人
+description: 负责公司战略、融资、团队建设和业务方向
+level: lead
+industries:
+  - startup-decision
+  - one-person-company
+  - ai-app-generation
+skills:
+  - strategic-planning
+  - fundraising
+  - team-building
+  - product-vision
+  - stakeholder-management
+  - decision-making
+responsibilities:
+  - 制定公司战略
+  - 寻找融资机会
+  - 组建核心团队
+  - 确定产品方向
+  - 维护投资人关系
+reporting_to: board

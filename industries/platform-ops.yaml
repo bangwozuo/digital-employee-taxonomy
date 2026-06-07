@@ -1,0 +1,34 @@
+id: platform-ops
+name: 平台运营
+description: 平台治理、社区运营、内容审核、用户增长、活动策划、数据分析
+icon: globe
+parent: null
+level: 1
+order: 20
+tags:
+  - community-ops
+  - content-moderation
+  - user-growth
+  - event-planning
+  - platform-governance
+  - creator-economy
+related_industries:
+  - content-marketing
+  - private-domain-ops
+  - data-analysis
+common_roles:
+  - platform-manager
+  - community-lead
+  - content-moderator
+  - growth-manager
+  - event-coordinator
+  - creator-relations
+common_skills:
+  - community-guideline-enforcement
+  - content-review
+  - user-engagement
+  - event-automation
+  - growth-experimentation
+  - creator-onboarding
+market_size: enterprise
+complexity: complex

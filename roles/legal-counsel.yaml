@@ -1,0 +1,22 @@
+id: legal-counsel
+name: 法务顾问
+description: 负责合同审核、合规管理、风险识别和法律咨询
+level: senior
+industries:
+  - legal-contract
+  - finance-tax
+  - tech-outsourcing
+skills:
+  - contract-analysis
+  - compliance-checking
+  - risk-assessment
+  - ip-protection
+  - regulatory-monitoring
+  - dispute-resolution
+responsibilities:
+  - 审核合同条款
+  - 识别法律风险
+  - 维护合规体系
+  - 处理知识产权事务
+  - 提供法律咨询
+reporting_to: ceo

@@ -1,0 +1,33 @@
+id: admin-hr
+name: 行政人事
+description: 考勤管理、员工关系、办公采购、行政事务、企业文化
+icon: building
+parent: null
+level: 1
+order: 13
+tags:
+  - attendance
+  - employee-relations
+  - office-admin
+  - procurement
+  - corporate-culture
+  - policy-management
+related_industries:
+  - finance-tax
+  - recruitment
+  - legal-contract
+common_roles:
+  - hr-generalist
+  - office-manager
+  - admin-assistant
+  - culture-specialist
+  - policy-administrator
+common_skills:
+  - attendance-tracking
+  - leave-management
+  - document-archiving
+  - meeting-scheduling
+  - expense-reimbursement
+  - policy-drafting
+market_size: enterprise
+complexity: simple

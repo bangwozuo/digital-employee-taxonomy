@@ -1,0 +1,34 @@
+id: design-creative
+name: 设计创意
+description: 平面设计、UI/UX设计、品牌视觉、创意策划、多媒体制作
+icon: palette
+parent: null
+level: 1
+order: 19
+tags:
+  - graphic-design
+  - ui-ux
+  - branding
+  - creative-direction
+  - multimedia
+  - motion-graphics
+related_industries:
+  - content-marketing
+  - internet-product-dev
+  - ecommerce-retail
+common_roles:
+  - graphic-designer
+  - ui-designer
+  - ux-researcher
+  - brand-designer
+  - creative-director
+  - video-producer
+common_skills:
+  - visual-design
+  - prototyping
+  - brand-guideline
+  - image-editing
+  - video-production
+  - animation
+market_size: smb
+complexity: moderate

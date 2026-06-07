@@ -1,0 +1,31 @@
+id: one-person-company
+name: 一人公司
+description: 个体创业者、自由职业者、独立顾问等单人经营模式
+icon: user
+parent: null
+level: 1
+order: 1
+tags:
+  - solo-founder
+  - freelancer
+  - indie-hacker
+  - consultant
+related_industries:
+  - startup-decision
+  - content-marketing
+  - tech-outsourcing
+common_roles:
+  - solo-founder
+  - freelancer
+  - virtual-assistant
+  - content-creator
+  - indie-developer
+common_skills:
+  - content-writing
+  - social-media-management
+  - basic-accounting
+  - client-communication
+  - project-management
+  - personal-branding
+market_size: smb
+complexity: simple

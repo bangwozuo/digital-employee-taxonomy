@@ -1,0 +1,34 @@
+id: internet-product-dev
+name: 互联网产品研发
+description: 互联网产品的设计、开发、测试、迭代和发布
+icon: code
+parent: null
+level: 1
+order: 3
+tags:
+  - product-design
+  - software-development
+  - qa-testing
+  - devops
+  - agile
+related_industries:
+  - startup-decision
+  - ai-app-generation
+  - tech-outsourcing
+common_roles:
+  - product-manager
+  - ux-designer
+  - frontend-developer
+  - backend-developer
+  - qa-engineer
+  - devops-engineer
+common_skills:
+  - requirement-analysis
+  - wireframing
+  - prototyping
+  - code-review
+  - automated-testing
+  - ci-cd
+  - api-design
+market_size: enterprise
+complexity: complex

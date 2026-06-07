@@ -1,0 +1,22 @@
+id: ai-engineer
+name: AI工程师
+description: 负责AI模型开发、Prompt工程、RAG系统构建和AI应用部署
+level: senior
+industries:
+  - ai-app-generation
+  - internet-product-dev
+  - data-analysis
+skills:
+  - llm-integration
+  - prompt-engineering
+  - rag-implementation
+  - model-fine-tuning
+  - vector-database
+  - ai-safety
+responsibilities:
+  - 设计和实现AI功能
+  - 优化Prompt效果
+  - 构建知识检索系统
+  - 评估模型性能
+  - 确保AI安全合规
+reporting_to: cto

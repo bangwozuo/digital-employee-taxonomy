@@ -1,0 +1,34 @@
+id: sales-growth
+name: 销售增长
+description: 销售管理、线索培育、客户开发、成交转化、销售数据分析
+icon: trend-up
+parent: null
+level: 1
+order: 10
+tags:
+  - lead-generation
+  - sales-pipeline
+  - crm
+  - cold-outreach
+  - deal-closing
+  - sales-forecasting
+related_industries:
+  - ecommerce-retail
+  - customer-service
+  - recruitment
+common_roles:
+  - sales-representative
+  - account-executive
+  - sdr
+  - sales-manager
+  - business-development
+  - presales-consultant
+common_skills:
+  - lead-scoring
+  - outreach-automation
+  - demo-scheduling
+  - proposal-generation
+  - contract-negotiation
+  - sales-reporting
+market_size: enterprise
+complexity: moderate

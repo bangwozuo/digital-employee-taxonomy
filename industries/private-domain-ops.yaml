@@ -1,0 +1,33 @@
+id: private-domain-ops
+name: 私域运营
+description: 社群运营、用户分层、私域流量转化、会员体系、裂变增长
+icon: users
+parent: null
+level: 1
+order: 7
+tags:
+  - community-management
+  - user-segmentation
+  - crm
+  - membership
+  - referral
+  - wechat-ops
+related_industries:
+  - ecommerce-retail
+  - content-marketing
+  - local-life
+common_roles:
+  - community-manager
+  - user-operation-specialist
+  - membership-manager
+  -裂变-growth-manager
+  - customer-success-manager
+common_skills:
+  - community-building
+  - user-tagging
+  - automated-nurture
+  - group-management
+  - mini-program-ops
+  - data-driven-optimization
+market_size: smb
+complexity: moderate

@@ -1,0 +1,23 @@
+id: data-analyst
+name: 数据分析师
+description: 采集、清洗、分析数据，生成报表，提供决策支持
+level: mid
+industries:
+  - data-analysis
+  - ecommerce-retail
+  - finance-tax
+  - sales-growth
+skills:
+  - sql-querying
+  - data-visualization
+  - statistical-analysis
+  - report-generation
+  - dashboard-building
+  - anomaly-detection
+responsibilities:
+  - 收集和清洗数据
+  - 分析业务指标
+  - 生成数据报表
+  - 构建数据看板
+  - 提供决策建议
+reporting_to: data-manager

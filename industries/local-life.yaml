@@ -1,0 +1,33 @@
+id: local-life
+name: 本地生活
+description: 餐饮、美业、休闲娱乐等本地服务行业的运营和管理
+icon: map-pin
+parent: null
+level: 1
+order: 9
+tags:
+  - restaurant
+  - beauty
+  - entertainment
+  - local-service
+  - o2o
+  - appointment-booking
+related_industries:
+  - ecommerce-retail
+  - private-domain-ops
+  - customer-service
+common_roles:
+  - store-owner
+  - reservation-manager
+  - service-coordinator
+  - local-marketing-manager
+  - review-manager
+common_skills:
+  - appointment-scheduling
+  - review-management
+  - local-seo
+  - promotion-design
+  - customer-retention
+  - inventory-tracking
+market_size: smb
+complexity: simple

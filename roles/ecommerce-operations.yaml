@@ -1,0 +1,22 @@
+id: ecommerce-operations
+name: 电商运营
+description: 负责店铺运营、商品上架、活动策划和数据分析
+level: mid
+industries:
+  - ecommerce-retail
+  - sales-growth
+  - local-life
+skills:
+  - product-listing
+  - promotion-planning
+  - inventory-management
+  - data-analysis
+  - customer-service
+  - live-streaming
+responsibilities:
+  - 管理店铺日常运营
+  - 优化商品详情页
+  - 策划促销活动
+  - 分析运营数据
+  - 协调供应链
+reporting_to: operations-manager

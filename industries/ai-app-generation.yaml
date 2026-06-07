@@ -1,0 +1,33 @@
+id: ai-app-generation
+name: AI应用生成
+description: 基于大语言模型和AI技术的应用程序开发、Prompt工程、AI工作流编排
+icon: brain
+parent: null
+level: 1
+order: 5
+tags:
+  - llm
+  - prompt-engineering
+  - ai-workflow
+  - rag
+  - fine-tuning
+  - agent
+related_industries:
+  - internet-product-dev
+  - startup-decision
+  - content-marketing
+common_roles:
+  - ai-engineer
+  - prompt-engineer
+  - ml-engineer
+  - ai-product-manager
+  - data-scientist
+common_skills:
+  - prompt-design
+  - rag-implementation
+  - model-evaluation
+  - vector-database
+  - llm-integration
+  - ai-safety
+market_size: startup
+complexity: complex

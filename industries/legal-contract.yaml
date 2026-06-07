@@ -1,0 +1,33 @@
+id: legal-contract
+name: 法务合同
+description: 合同审核、合规管理、知识产权保护、法律风险识别、诉讼支持
+icon: scale
+parent: null
+level: 1
+order: 14
+tags:
+  - contract-review
+  - compliance
+  - ip-protection
+  - risk-assessment
+  - litigation-support
+  - regulatory
+related_industries:
+  - finance-tax
+  - admin-hr
+  - tech-outsourcing
+common_roles:
+  - legal-counsel
+  - contract-manager
+  - compliance-officer
+  - ip-specialist
+  - paralegal
+common_skills:
+  - contract-analysis
+  - clause-extraction
+  - risk-flagging
+  - compliance-checking
+  - nda-generation
+  - trademark-monitoring
+market_size: enterprise
+complexity: complex

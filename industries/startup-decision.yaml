@@ -1,0 +1,32 @@
+id: startup-decision
+name: 创业决策
+description: 早期创业公司、战略决策、商业模式验证、融资准备
+icon: rocket
+parent: null
+level: 1
+order: 2
+tags:
+  - early-stage
+  - strategy
+  - fundraising
+  - mvp
+  - pivot
+related_industries:
+  - one-person-company
+  - internet-product-dev
+  - ai-app-generation
+common_roles:
+  - founder
+  - ceo
+  - cto
+  - product-manager
+  - growth-hacker
+common_skills:
+  - market-research
+  - competitive-analysis
+  - pitch-deck-creation
+  - financial-modeling
+  - user-interview
+  - a-b-testing
+market_size: startup
+complexity: complex

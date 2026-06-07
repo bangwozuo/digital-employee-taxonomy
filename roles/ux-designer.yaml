@@ -1,0 +1,22 @@
+id: ux-designer
+name: UX设计师
+description: 负责用户研究、交互设计、原型制作和可用性测试
+level: mid
+industries:
+  - internet-product-dev
+  - design-creative
+  - ai-app-generation
+skills:
+  - user-research
+  - wireframing
+  - prototyping
+  - usability-testing
+  - interaction-design
+  - design-systems
+responsibilities:
+  - 进行用户研究
+  - 设计交互流程
+  - 制作原型
+  - 进行可用性测试
+  - 维护设计规范
+reporting_to: design-lead

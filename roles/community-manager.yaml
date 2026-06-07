@@ -1,0 +1,22 @@
+id: community-manager
+name: 社群运营
+description: 负责社群建设、用户互动、内容策划和活动组织
+level: mid
+industries:
+  - private-domain-ops
+  - platform-ops
+  - content-marketing
+skills:
+  - community-building
+  - user-engagement
+  - content-curation
+  - event-planning
+  - data-analysis
+  - crisis-management
+responsibilities:
+  - 维护社群氛围
+  - 策划社群活动
+  - 收集用户反馈
+  - 分析社群数据
+  - 处理社群危机
+reporting_to: operations-manager

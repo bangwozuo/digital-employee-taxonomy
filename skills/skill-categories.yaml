@@ -1,0 +1,180 @@
+categories:
+  - id: customer-interaction
+    name: 客户交互
+    description: 直接与客户沟通、服务和支持相关的技能
+    skills:
+      - id: inquiry-response
+        name: 咨询回复
+        description: 快速准确地回复客户咨询
+      - id: complaint-handling
+        name: 投诉处理
+        description: 专业处理客户投诉和不满
+      - id: sentiment-analysis
+        name: 情绪分析
+        description: 识别客户情绪并调整沟通策略
+      - id: empathy-communication
+        name: 共情沟通
+        description: 以同理心与客户建立良好关系
+      - id: escalation-management
+        name: 升级管理
+        description: 判断何时将问题升级给更高级别处理
+
+  - id: content-production
+    name: 内容生产
+    description: 内容创作、编辑和优化相关的技能
+    skills:
+      - id: copywriting
+        name: 文案写作
+        description: 撰写吸引人的营销文案
+      - id: seo-optimization
+        name: SEO优化
+        description: 优化内容以提高搜索引擎排名
+      - id: content-repurposing
+        name: 内容改编
+        description: 将内容适配到不同平台和格式
+      - id: video-scripting
+        name: 视频脚本
+        description: 撰写短视频和直播脚本
+      - id: visual-design
+        name: 视觉设计
+        description: 创建配图、海报和视觉素材
+
+  - id: data-processing
+    name: 数据处理
+    description: 数据采集、清洗、分析和可视化相关的技能
+    skills:
+      - id: data-collection
+        name: 数据采集
+        description: 从多个来源采集业务数据
+      - id: data-cleaning
+        name: 数据清洗
+        description: 清理和标准化原始数据
+      - id: data-visualization
+        name: 数据可视化
+        description: 将数据转化为图表和看板
+      - id: report-generation
+        name: 报表生成
+        description: 自动生成业务报表
+      - id: anomaly-detection
+        name: 异常检测
+        description: 识别数据中的异常和趋势
+
+  - id: automation
+    name: 流程自动化
+    description: 业务流程自动化和效率提升相关的技能
+    skills:
+      - id: workflow-automation
+        name: 工作流自动化
+        description: 设计和实现自动化工作流
+      - id: email-processing
+        name: 邮件处理
+        description: 自动分类、回复和跟进邮件
+      - id: meeting-minutes
+        name: 会议纪要
+        description: 自动记录和提取会议要点
+      - id: calendar-scheduling
+        name: 日程安排
+        description: 智能安排和协调会议时间
+      - id: document-processing
+        name: 文档处理
+        description: 自动处理、归档和检索文档
+
+  - id: ecommerce
+    name: 电商运营
+    description: 电商平台运营和销售相关的技能
+    skills:
+      - id: product-listing
+        name: 商品上架
+        description: 优化商品标题、描述和图片
+      - id: inventory-management
+        name: 库存管理
+        description: 监控库存水平和补货提醒
+      - id: order-fulfillment
+        name: 订单履约
+        description: 处理从下单到发货的全流程
+      - id: promotion-planning
+        name: 促销策划
+        description: 设计和执行促销活动
+      - id: live-streaming
+        name: 直播运营
+        description: 策划和执行直播带货活动
+
+  - id: finance
+    name: 财务财税
+    description: 财务管理和税务处理相关的技能
+    skills:
+      - id: bookkeeping
+        name: 记账
+        description: 记录日常收支和账目
+      - id: invoice-processing
+        name: 发票处理
+        description: 识别、验证和归档发票
+      - id: tax-filing
+        name: 税务申报
+        description: 准备和提交税务申报表
+      - id: expense-categorization
+        name: 费用分类
+        description: 自动分类和审核费用报销
+      - id: cashflow-forecasting
+        name: 现金流预测
+        description: 预测未来现金流状况
+
+  - id: legal
+    name: 法务合规
+    description: 法律事务和合规管理相关的技能
+    skills:
+      - id: contract-analysis
+        name: 合同分析
+        description: 识别合同中的关键条款和风险
+      - id: compliance-checking
+        name: 合规检查
+        description: 验证业务操作是否符合法规
+      - id: risk-flagging
+        name: 风险标记
+        description: 识别和标记潜在法律风险
+      - id: nda-generation
+        name: NDA生成
+        description: 自动生成保密协议
+      - id: ip-monitoring
+        name: 知识产权监控
+        description: 监控商标和专利状态
+
+  - id: product-development
+    name: 产品研发
+    description: 软件产品设计和开发相关的技能
+    skills:
+      - id: requirement-analysis
+        name: 需求分析
+        description: 收集和分析用户需求
+      - id: wireframing
+        name: 线框图
+        description: 绘制产品界面线框图
+      - id: prototyping
+        name: 原型制作
+        description: 制作可交互的产品原型
+      - id: user-testing
+        name: 用户测试
+        description: 设计和执行可用性测试
+      - id: a-b-testing
+        name: A/B测试
+        description: 设计和分析产品实验
+
+  - id: ai-ml
+    name: AI与机器学习
+    description: 人工智能和机器学习相关的技能
+    skills:
+      - id: prompt-engineering
+        name: Prompt工程
+        description: 设计和优化大语言模型提示词
+      - id: rag-implementation
+        name: RAG实现
+        description: 构建检索增强生成系统
+      - id: model-evaluation
+        name: 模型评估
+        description: 评估AI模型性能和效果
+      - id: fine-tuning
+        name: 模型微调
+        description: 针对特定任务微调模型
+      - id: embedding-optimization
+        name: 嵌入优化
+        description: 优化文本嵌入和向量检索

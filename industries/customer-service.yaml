@@ -1,0 +1,33 @@
+id: customer-service
+name: 客户服务
+description: 售前咨询、售后支持、客诉处理、客户满意度管理、服务质检
+icon: headset
+parent: null
+level: 1
+order: 11
+tags:
+  - pre-sales
+  - after-sales
+  - complaint-handling
+  - satisfaction-survey
+  - quality-assurance
+  - helpdesk
+related_industries:
+  - ecommerce-retail
+  - local-life
+  - sales-growth
+common_roles:
+  - customer-service-rep
+  - technical-support
+  - complaint-specialist
+  - quality-inspector
+  - customer-success-manager
+common_skills:
+  - inquiry-response
+  - ticket-management
+  - escalation-handling
+  - sentiment-analysis
+  - knowledge-base-maintenance
+  - satisfaction-tracking
+market_size: enterprise
+complexity: moderate

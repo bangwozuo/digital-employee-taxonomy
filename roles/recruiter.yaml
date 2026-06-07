@@ -1,0 +1,22 @@
+id: recruiter
+name: 招聘专员
+description: 负责简历筛选、面试安排、人才库管理和入职流程
+level: mid
+industries:
+  - recruitment
+  - admin-hr
+  - tech-outsourcing
+skills:
+  - resume-screening
+  - candidate-matching
+  - interview-coordination
+  - talent-pool-management
+  - offer-generation
+  - onboarding-automation
+responsibilities:
+  - 发布招聘信息
+  - 筛选简历
+  - 安排面试
+  - 维护人才库
+  - 跟进入职流程
+reporting_to: hr-manager

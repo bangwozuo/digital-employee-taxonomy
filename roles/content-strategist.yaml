@@ -1,0 +1,22 @@
+id: content-strategist
+name: 内容策略师
+description: 制定内容策略、规划内容日历、管理多平台内容分发
+level: mid
+industries:
+  - content-marketing
+  - private-domain-ops
+  - platform-ops
+skills:
+  - content-planning
+  - seo-optimization
+  - social-media-management
+  - analytics-reporting
+  - brand-voice
+  - trend-analysis
+responsibilities:
+  - 制定内容策略
+  - 管理内容日历
+  - 分析内容数据
+  - 优化分发渠道
+  - 维护品牌调性
+reporting_to: marketing-manager

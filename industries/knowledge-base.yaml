@@ -1,0 +1,33 @@
+id: knowledge-base
+name: 知识库
+description: 文档管理、知识沉淀、FAQ维护、培训材料、内部Wiki
+icon: book-open
+parent: null
+level: 1
+order: 17
+tags:
+  - document-management
+  - knowledge-sharing
+  - faq-maintenance
+  - training-material
+  - wiki
+  - sops
+related_industries:
+  - admin-hr
+  - customer-service
+  - internet-product-dev
+common_roles:
+  - knowledge-manager
+  - technical-writer
+  - training-coordinator
+  - documentation-specialist
+  - content-librarian
+common_skills:
+  - document-organization
+  - version-control
+  - search-optimization
+  - content-tagging
+  - access-control
+  - knowledge-retrieval
+market_size: enterprise
+complexity: moderate

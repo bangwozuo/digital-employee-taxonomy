@@ -1,0 +1,21 @@
+id: customer-service-rep
+name: 客服代表
+description: 处理客户咨询、投诉和售后问题的第一线服务人员
+level: junior
+industries:
+  - customer-service
+  - ecommerce-retail
+  - local-life
+skills:
+  - inquiry-response
+  - complaint-handling
+  - order-tracking
+  - product-knowledge
+  - empathy-communication
+  - escalation-management
+responsibilities:
+  - 回复客户咨询
+  - 处理订单查询
+  - 记录客户反馈
+  - 升级复杂问题
+reporting_to: customer-service-manager

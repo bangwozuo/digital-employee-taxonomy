@@ -1,0 +1,22 @@
+id: sales-representative
+name: 销售代表
+description: 开发客户、跟进线索、促成交易、维护客户关系
+level: mid
+industries:
+  - sales-growth
+  - ecommerce-retail
+  - tech-outsourcing
+skills:
+  - lead-generation
+  - cold-outreach
+  - demo-presentation
+  - negotiation
+  - crm-management
+  - pipeline-tracking
+responsibilities:
+  - 开发潜在客户
+  - 进行产品演示
+  - 跟进销售机会
+  - 维护客户关系
+  - 达成销售目标
+reporting_to: sales-manager

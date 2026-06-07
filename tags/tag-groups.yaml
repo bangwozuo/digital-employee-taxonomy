@@ -1,0 +1,184 @@
+groups:
+  - id: business-model
+    name: 商业模式
+    description: 描述企业或资产的商业模式标签
+    tags:
+      - id: b2b
+        name: B2B
+        description: 企业对企业
+      - id: b2c
+        name: B2C
+        description: 企业对消费者
+      - id: b2b2c
+        name: B2B2C
+        description: 企业对企业对消费者
+      - id: saas
+        name: SaaS
+        description: 软件即服务
+      - id: marketplace
+        name: 平台型
+        description: 撮合交易平台
+      - id: dtc
+        name: DTC
+        description: 直接面向消费者
+      - id: subscription
+        name: 订阅制
+        description: 订阅收费模式
+      - id: freemium
+        name: 免费增值
+        description: 基础免费+高级付费
+
+  - id: company-stage
+    name: 企业阶段
+    description: 描述企业所处的发展阶段
+    tags:
+      - id: idea-stage
+        name: 想法阶段
+        description: 仅有产品想法
+      - id: mvp
+        name: MVP
+        description: 最小可行产品阶段
+      - id: early-stage
+        name: 早期阶段
+        description: 产品已上线，正在寻找市场匹配
+      - id: growth-stage
+        name: 增长阶段
+        description: 已找到市场匹配，正在快速扩张
+      - id: mature-stage
+        name: 成熟阶段
+        description: 业务稳定，追求效率优化
+      - id: enterprise
+        name: 企业级
+        description: 大型企业或组织
+
+  - id: technology-stack
+    name: 技术栈
+    description: 描述使用的技术栈和平台
+    tags:
+      - id: python
+        name: Python
+        description: Python技术栈
+      - id: javascript
+        name: JavaScript
+        description: JavaScript/Node.js技术栈
+      - id: golang
+        name: Go
+        description: Go语言技术栈
+      - id: java
+        name: Java
+        description: Java技术栈
+      - id: rust
+        name: Rust
+        description: Rust技术栈
+      - id: langchain
+        name: LangChain
+        description: 基于LangChain框架
+      - id: langgraph
+        name: LangGraph
+        description: 基于LangGraph框架
+      - id: dify
+        name: Dify
+        description: 基于Dify平台
+      - id: coze
+        name: Coze
+        description: 基于Coze平台
+      - id: fastgpt
+        name: FastGPT
+        description: 基于FastGPT平台
+
+  - id: deployment
+    name: 部署方式
+    description: 描述部署和运行方式
+    tags:
+      - id: cloud-hosted
+        name: 云托管
+        description: 由平台云托管运行
+      - id: self-hosted
+        name: 自托管
+        description: 用户自行部署运行
+      - id: docker
+        name: Docker
+        description: 支持Docker部署
+      - id: kubernetes
+        name: Kubernetes
+        description: 支持K8s部署
+      - id: serverless
+        name: Serverless
+        description: 无服务器架构
+      - id: edge
+        name: 边缘部署
+        description: 支持边缘设备部署
+
+  - id: language
+    name: 语言
+    description: 支持的工作语言
+    tags:
+      - id: chinese
+        name: 中文
+        description: 支持中文
+      - id: english
+        name: 英文
+        description: 支持英文
+      - id: japanese
+        name: 日文
+        description: 支持日文
+      - id: korean
+        name: 韩文
+        description: 支持韩文
+      - id: multilingual
+        name: 多语言
+        description: 支持多种语言
+
+  - id: complexity
+    name: 复杂度
+    description: 描述资产的使用复杂度
+    tags:
+      - id: simple
+        name: 简单
+        description: 开箱即用，无需配置
+      - id: moderate
+        name: 中等
+        description: 需要基本配置
+      - id: complex
+        name: 复杂
+        description: 需要深度定制和集成
+
+  - id: pricing
+    name: 定价
+    description: 描述定价模式
+    tags:
+      - id: free
+        name: 免费
+        description: 完全免费使用
+      - id: free-tier
+        name: 免费版
+        description: 提供免费使用额度
+      - id: paid
+        name: 付费
+        description: 需要付费使用
+      - id: open-source
+        name: 开源
+        description: 开源免费使用
+      - id: enterprise-license
+        name: 企业授权
+        description: 需要企业授权
+
+  - id: integration
+    name: 集成能力
+    description: 描述与其他系统的集成能力
+    tags:
+      - id: api-available
+        name: 提供API
+        description: 提供开放API接口
+      - id: webhook-supported
+        name: 支持Webhook
+        description: 支持Webhook事件通知
+      - id: sdk-available
+        name: 提供SDK
+        description: 提供开发工具包
+      - id: no-code
+        name: 无代码
+        description: 支持无代码集成
+      - id: plugin-architecture
+        name: 插件架构
+        description: 支持插件扩展

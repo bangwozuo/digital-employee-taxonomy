@@ -1,0 +1,22 @@
+id: automation-specialist
+name: 自动化专员
+description: 负责流程自动化、效率工具部署和办公系统优化
+level: mid
+industries:
+  - automation-office
+  - admin-hr
+  - internet-product-dev
+skills:
+  - workflow-automation
+  - rpa
+  - api-integration
+  - script-writing
+  - process-mapping
+  - tool-evaluation
+responsibilities:
+  - 识别自动化机会
+  - 设计和部署自动化流程
+  - 维护自动化工具
+  - 培训团队使用工具
+  - 监控自动化效果
+reporting_to: operations-manager

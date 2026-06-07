@@ -1,0 +1,34 @@
+id: data-analysis
+name: 数据分析
+description: 数据采集、清洗、可视化、商业分析、报表生成、决策支持
+icon: bar-chart
+parent: null
+level: 1
+order: 16
+tags:
+  - data-collection
+  - data-cleaning
+  - visualization
+  - business-intelligence
+  - reporting
+  - predictive-analytics
+related_industries:
+  - internet-product-dev
+  - ecommerce-retail
+  - finance-tax
+  - sales-growth
+common_roles:
+  - data-analyst
+  - bi-engineer
+  - data-engineer
+  - business-analyst
+  - reporting-specialist
+common_skills:
+  - sql-querying
+  - data-visualization
+  - dashboard-building
+  - report-generation
+  - anomaly-detection
+  - trend-forecasting
+market_size: enterprise
+complexity: complex

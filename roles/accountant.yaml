@@ -1,0 +1,22 @@
+id: accountant
+name: 会计
+description: 负责记账、报税、发票管理和财务报表编制
+level: mid
+industries:
+  - finance-tax
+  - admin-hr
+  - one-person-company
+skills:
+  - bookkeeping
+  - tax-filing
+  - invoice-processing
+  - financial-reporting
+  - expense-categorization
+  - compliance-checking
+responsibilities:
+  - 日常记账
+  - 编制财务报表
+  - 处理税务申报
+  - 管理发票
+  - 审核费用报销
+reporting_to: cfo
